@@ -1,16 +1,15 @@
 # 01 Exercise: Backgammon Object Oriented Analysis
 > Exercise, day 1 (design)
 
-This exercise should be done in groups of 2-3 persons.    
+1. This exercise should be done in groups of 2-3 persons.    
 
-Identify which objects the image below contains. Use the same approach as we just did with the Angry Bird Game.    
+2. Identify which objects the image below contains. Use the same approach as we just did with the Angry Bird Game.    
 
-Try to identify:
+**Try to identify:**    
+* attributes
+* and actions which the object can do.
 
-attributes
-and actions which the object can do.
-
-![Backgammond](StartPosition.gif)    ![](backgammon-precision-dice-black_primary.jpg)
+![Backgammond](Screen Shot 2018-05-30 at 13.38.35.png)
 
 You will get 15 minutes to complete this exercise.     
 Afterwards we look at it together at the black board.    
