@@ -10,7 +10,7 @@ Try to identify:
 attributes
 and actions which the object can do.
 
-![Backgammond](StartPosition.gif)    
+![Backgammond](StartPosition.gif)    ![](backgammon-precision-dice-black_primary.jpg)
 
 You will get 15 minutes to complete this exercise.     
 Afterwards we look at it together at the black board.    
