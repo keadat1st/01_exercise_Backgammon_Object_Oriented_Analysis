@@ -9,7 +9,7 @@
 * attributes
 * and actions which the object can do.
 
-![Backgammond](Screen Shot 2018-05-30 at 13.38.35.png)
+![Backgammond](backgammond.png)
 
 You will get 15 minutes to complete this exercise.     
 Afterwards we look at it together at the black board.    
