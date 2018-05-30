@@ -6,8 +6,8 @@
 2. Identify which objects the image below contains. Use the same approach as we just did with the Angry Bird Game.    
 
 **Try to identify:**    
-* attributes (something that describes what the object is or has)
-* actions (what the object can do)
+1. attributes (something that describes what the object is or has)
+2. actions (what the object can do)
 
 ![Backgammond](backgammond.png)
 
